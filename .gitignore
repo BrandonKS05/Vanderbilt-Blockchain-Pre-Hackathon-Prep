@@ -1,0 +1,4 @@
+
+# ignore root & nested env files
+.env.local
+my-dapp/.env*
